@@ -1,0 +1,26 @@
+sublime-commands.txt
+
+This  file documents 5 useful features in the sublime text editor (FOR PYTHON):
+
+1. Comment current line : Ctrl + /
+2. Select cuurrent line: Ctrl + L 
+3. Indent current line: Ctrl + ]
+4. Join line below to end of current line: Ctrl + J
+5. Open files by name: Ctrl + P
+6. Find a particular word: Ctrl + F
+7. Transform to uppercase: Ctrl + KU
+8. Transform to lowercase: Ctrl + KL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
