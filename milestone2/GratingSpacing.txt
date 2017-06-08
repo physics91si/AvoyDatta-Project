@@ -1,1 +1,5 @@
-The following are the values for the  diffraction grating spacing obtained after testing with each respective gas, given in meters Hydrogen: 159088.47900794662Sodium: 7296.722103724687Mercury: 275273.0452490161
+The following are the values for the  diffraction grating spacing obtained after testing with each respective gas, given in meters
+Hydrogen: 1.6440608906354632e-06
+Sodium: 4.876379427620118e-08
+Mercury: 2.6757468620397902e-06
+All: 2.078757508575815e-06
